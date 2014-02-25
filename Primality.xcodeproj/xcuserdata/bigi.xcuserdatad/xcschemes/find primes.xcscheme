@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1C9197DF18BC74740087317F"
-               BuildableName = "find primes"
-               BlueprintName = "find primes"
-               ReferencedContainer = "container:find primes.xcodeproj">
+               BuildableName = "Primality"
+               BlueprintName = "Primality"
+               ReferencedContainer = "container:Primality.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C9197DF18BC74740087317F"
-            BuildableName = "find primes"
-            BlueprintName = "find primes"
-            ReferencedContainer = "container:find primes.xcodeproj">
+            BuildableName = "Primality"
+            BlueprintName = "Primality"
+            ReferencedContainer = "container:Primality.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C9197DF18BC74740087317F"
-            BuildableName = "find primes"
-            BlueprintName = "find primes"
-            ReferencedContainer = "container:find primes.xcodeproj">
+            BuildableName = "Primality"
+            BlueprintName = "Primality"
+            ReferencedContainer = "container:Primality.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C9197DF18BC74740087317F"
-            BuildableName = "find primes"
-            BlueprintName = "find primes"
-            ReferencedContainer = "container:find primes.xcodeproj">
+            BuildableName = "Primality"
+            BlueprintName = "Primality"
+            ReferencedContainer = "container:Primality.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
